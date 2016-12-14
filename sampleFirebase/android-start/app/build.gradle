@@ -42,24 +42,13 @@ dependencies {
     // Google
     compile 'com.google.android.gms:play-services-auth:9.8.0'
     // Firebase
-<<<<<<< Updated upstream
-    compile 'com.google.firebase:firebase-database:10.0.0'
-    compile 'com.google.firebase:firebase-auth:10.0.0'
-    compile 'com.google.firebase:firebase-config:10.0.0'
-    compile 'com.google.android.gms:play-services-appinvite:10.0.0'
-    compile 'com.google.firebase:firebase-messaging:10.0.0'
-    compile 'com.google.android.gms:play-services-ads:10.0.0'
-    compile 'com.google.firebase:firebase-crash:10.0.0'
-    compile 'com.google.firebase:firebase-appindexing:10.0.0'
 
-=======
     compile 'com.google.firebase:firebase-database:9.0.2'
     compile 'com.google.firebase:firebase-auth:9.0.2'
     compile 'com.google.firebase:firebase-config:9.0.2'
     //compile 'com.google.android.gms:play-services-appinvite:9.0.1'
     compile 'com.google.firebase:firebase-messaging:9.0.2'
     compile 'com.google.firebase:firebase-crash:9.0.2'
->>>>>>> Stashed changes
     // Firebase UI
     compile 'com.firebaseui:firebase-ui-database:0.4.0'
     // Testing dependencies
